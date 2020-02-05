@@ -13,6 +13,7 @@ public class App
     name();
     varsta();
     bani();
+    System.out.println("end");
     }
     
     public static void name() {
