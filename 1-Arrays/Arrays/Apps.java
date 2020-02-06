@@ -14,8 +14,7 @@ public class Apps {
 		values[2]=3;
 		for(int i=0;i<values.length;i++) {
 			System.out.println(values[i]);
-		}
-		
+		}	
 		int [] values_1 = {3,4,5};
 		for(int i=0;i<values.length;i++) {
 			System.out.println(values_1[i]);
@@ -27,7 +26,6 @@ public class Apps {
 		
 		for(String word : words) {
 			System.out.println(word);
-			
 		}
 	}
 
