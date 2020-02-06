@@ -19,8 +19,7 @@ public class Apps {
 		int [] values_1 = {3,4,5};
 		for(int i=0;i<values.length;i++) {
 			System.out.println(values_1[i]);
-		}
-		
+		}		
 		String [] words = new String[3];
 		words[0]="steaua";
 		words[1]="dinamo";
