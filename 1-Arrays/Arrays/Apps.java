@@ -27,6 +27,7 @@ public class Apps {
 		
 		for(String word : words) {
 			System.out.println(word);
+			
 		}
 	}
 
