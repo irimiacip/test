@@ -1,8 +1,13 @@
-package test;
+package Class;
 
 class Persons {
 String name;
 int varsta;
+ // clasa contine : 
+
+  //  instance variable
+  // methods
+
 }
 
 public class Class {
