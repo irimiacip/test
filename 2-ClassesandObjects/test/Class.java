@@ -8,7 +8,6 @@ int varsta;
 public class Class {
 
 	public static void main(String[] args) {		
-
 		Persons p1=new Persons();
 		p1.name="ion";
 		p1.varsta=23;		
