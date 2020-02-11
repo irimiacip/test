@@ -16,8 +16,7 @@ public class Class {
 		p2.name="vasile";
 		p2.varsta=23;			
 		System.out.println(p2.name);
-		System.out.println(p1.varsta);	
-		
+		System.out.println(p1.varsta);			
 	}
 	
 }
