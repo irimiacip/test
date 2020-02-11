@@ -19,9 +19,6 @@ public class Class {
 		System.out.println(p1.varsta);
 	
 		
-		
-		
-		
 	}
 	
 }
