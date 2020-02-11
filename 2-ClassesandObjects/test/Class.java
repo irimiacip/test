@@ -11,8 +11,7 @@ public class Class {
 		
 		Persons p1=new Persons();
 		p1.name="ion";
-		p1.varsta=23;
-		
+		p1.varsta=23;		
 		Persons p2=new Persons();
 		p2.name="vasile";
 		p2.varsta=23;			
