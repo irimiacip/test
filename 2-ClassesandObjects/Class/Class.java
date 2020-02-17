@@ -9,7 +9,7 @@ int varsta;
   // methods  
 
   void speak() {
-	  System.out.println("Hello omule" + name + "unde este ? Cati ani ai " + varsta);
+	  System.out.println("Hello omule " + name + " unde este ? Cati ani ai " + varsta);
   }
 }
 
