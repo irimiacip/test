@@ -6,21 +6,14 @@ class Person {
 	
 	 String getName() {
 		return name;
-	}
-	 
+	}	 
 	 int getAge() {
 		return age;
 	}
-
-	
-	
 	int calculateYearsToRetirement() {
 		int yearsleft= 65-age;
 		return yearsleft;
-	}
-	
-	
-	
+	}	
 }
 
 public class App {
