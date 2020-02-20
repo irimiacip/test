@@ -25,8 +25,7 @@ public class App {
 		p1.getClass();
 		System.out.println(p1.getClass());
 		p1.move("N-N-V", 34.4, 35) ;
-		
-		
+				
 	}
 
 }
