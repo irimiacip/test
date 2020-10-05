@@ -9,12 +9,12 @@ package Static;
 	    // dupa care urmeaza VOID sau CE INTOARCE METODA
 
 	 public String nume;
-	 public static String description;  //==> nu se face copie a aceste variabile in  mai multe obiecte.
+	 public static String description;   //==> nu se face copie a aceste variabile in  mai multe obiecte.
 	                                    // ==> apartine clasei si este UNICA !!!
 	 public String adress;
 	 
 	 public final static   String  XXX_YYY ="Steaua";
-	 
+
 	 public static String birthlocation;  
 	 
 	public void showAdress() { 				// o metoda care nu este statica , poate apela variabile STATICE cat si NON-STATICE

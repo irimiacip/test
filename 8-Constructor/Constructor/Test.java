@@ -26,13 +26,14 @@ class Oameni {
 	}		
 	public Oameni() {
 		this("vasilica");        // in aceasta varianta se face call catre celalat constructor
-		//this.nume = "ion";	//  adica un constructor cheama alt constructor
-								// daca lasam si a doua linie se supracrie variabile nume
-	} 							// pentru a intra intr-un loop infinit ==> un constructor se apeleaza pe el //
+		//this.nume = "ion";	         //  adica un constructor cheama alt constructor
+								        // daca lasam si a doua linie se supracrie variabile nume
+	} 							       // pentru a intra intr-un loop infinit ==> un constructor se apeleaza pe el //
 	public Oameni(String nume_om) {
 		this.nume = nume_om;
 	}
-	
+
+
 }
 
 public class Test {
